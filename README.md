@@ -38,4 +38,8 @@ Sample Data:
 
 | 4 | Sarah | 3 | 55000 |
 
-**departments** table:| id | name ||----|-----------|| 1 | Sales || 2 | Marketing || 3 | Finance |
+**departments** table:| id | name |
+                |----|-----------|
+                | 1 | Sales |
+                | 2 | Marketing |
+                | 3 | Finance |
